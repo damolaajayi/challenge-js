@@ -1,8 +1,8 @@
 {
-  "name": "challenge",
+  "name": "tower-of-hanoi-challenge",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"Module for tower of hanoi\"",
   "main": "index.js",
   "scripts": {
     "test": "mocha index.test.js"

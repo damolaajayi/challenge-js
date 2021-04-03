@@ -1,8 +1,8 @@
 {
-  "name": "tower-of-hanoi-challenge",
+  "name": "adedamola-module",
   "type": "module",
   "version": "1.0.0",
-  "description": "\"Module for tower of hanoi\"",
+  "description": "\"Module for tower of hanoi challenge\"",
   "main": "index.js",
   "scripts": {
     "test": "mocha index.test.js"

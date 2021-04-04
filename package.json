@@ -1,7 +1,7 @@
 {
   "name": "tower-of-hanoi",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"Module for tower of hanoi challenge\"",
   "main": "index.js",
   "scripts": {

@@ -1,4 +1,4 @@
-Run `npm i adedamola-module` to install module
+Run `npm i tower-of-hanoi` to install module
 
 Run `npm install mocha -g` to install test dependency
 
